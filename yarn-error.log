@@ -1,0 +1,27 @@
+Arguments: 
+  /home/marcellus/.nvm/versions/node/v16.14.2/bin/node /home/marcellus/.node/corepack/yarn/1.22.15/bin/yarn.js add --dev hardhat
+
+PATH: 
+  /home/marcellus/.nvm/versions/node/v16.14.2/bin:/home/marcellus/.vscode-server/bin/30d9c6cd9483b2cc586687151bcbcd635f373630/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Python310/Scripts/:/mnt/c/Python310/:/mnt/c/Python39/Scripts/:/mnt/c/Python39/:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Git/cmd:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/ProgramData/ComposerSetup/bin:/mnt/c/Program Files/Geth:/mnt/c/Program Files/nodejs/:/mnt/c/Users/dell/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/dell/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/xampp/php:/mnt/c/Users/dell/AppData/Roaming/Composer/vendor/bin:/mnt/c/Program Files/heroku/bin:/mnt/c/Users/dell/AppData/Roaming/npm
+
+Yarn version: 
+  1.22.15
+
+Node version: 
+  16.14.2
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
